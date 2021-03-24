@@ -13,3 +13,5 @@ also umm i am pog
 # Discord | ChimpWare
 
 https://discord.gg/CscpvrtzVW
+
+ChimpWare.xyz
