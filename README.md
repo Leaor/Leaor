@@ -1,5 +1,5 @@
 
-![Octocat](https://user-images.githubusercontent.com/74433811/112242611-931f2280-8c22-11eb-8aa5-07f66e57394f.png)
+https://cdn.discordapp.com/attachments/813959759442608139/821867610940375111/1jojFVDOMkX9Wytexe43D6khvaGpB9GmBvNwXs1M3EMoAJtliErhvNj8P86.png
 ### Hi there 👋
 
 Here are some ideas to get you started:
