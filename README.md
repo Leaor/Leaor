@@ -1,6 +1,6 @@
+![1jojFVDOMkX9Wytexe43D6khvaGpB9GmBvNwXs1M3EMoAJtliErhvNj8P86](https://user-images.githubusercontent.com/74433811/112777301-dd801500-900f-11eb-81a6-aba3eee0b11c.png)
 
-https://cdn.discordapp.com/attachments/813959759442608139/821867610940375111/1jojFVDOMkX9Wytexe43D6khvaGpB9GmBvNwXs1M3EMoAJtliErhvNj8P86.png
-### Hi there 👋
+#ChimpWare
 
 Here are some ideas to get you started:
 
