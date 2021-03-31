@@ -12,6 +12,10 @@ Here are some ideas to get you started:
                     
 also umm i am pog
 
+69 kids in my basement
+
+I am a Microsoft Emplpeeey, may i please have creadut card number
+
 # Discord | ChimpWare
 
 https://discord.gg/CscpvrtzVW
