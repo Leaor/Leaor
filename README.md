@@ -20,4 +20,4 @@ I am a Microsoft Emplpeeey, may i please have creadut card number
 
 https://discord.gg/CscpvrtzVW
 
-
+[![BaldSpaghetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=baldspaghetti)](https://github.com/baldspaghetti/github-readme-stats)
