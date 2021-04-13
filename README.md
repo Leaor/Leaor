@@ -19,7 +19,7 @@ I am a Microsoft Emplpeeey, may i please have creadut card number
 
 https://discord.gg/CscpvrtzVW
 
-![BaldSpaghetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=baldspaghetti&show_icons=true&theme=radical)
+![Leaor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leaor&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldspaghetti)](https://github.com/baldspaghetti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaor)](https://github.com/Leaor/github-readme-stats)
