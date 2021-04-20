@@ -19,13 +19,9 @@ I am a Microsoft Emplpeeey, may i please have creadut card number
 
 https://discord.gg/CscpvrtzVW
 
-![Leaor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leaor&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaor)](https://github.com/Leaor/github-readme-stats)
-
-
-center>
+<center>
 <a href="https://github.com/Leaor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leaor&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Leaor's stats" />
 </a>	
