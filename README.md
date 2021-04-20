@@ -23,3 +23,20 @@ https://discord.gg/CscpvrtzVW
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaor)](https://github.com/Leaor/github-readme-stats)
+
+
+center>
+<a href="https://github.com/Leaor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leaor&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Leaor's stats" />
+</a>	
+<br><br>
+<a href="https://github.com/Leaor?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaor&langs_count=8&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<br>
+<br>
+<hr>
+
+<img src="https://komarev.com/ghpvc/?username=0x1CA3&style=flat-square">
+
+</center>
